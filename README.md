@@ -1,1 +1,3 @@
-# Java2
+# JAVA FROM EPAM BLINOV 2020
+Воронин Андрей
+Б762-1
